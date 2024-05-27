@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "regex-engine"
+version = "0.1.0"
+description = ""
+authors = ["Daniel Rückert García <daniel@betterplaceapp.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
